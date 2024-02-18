@@ -1,0 +1,30 @@
+$c=\Gamma(e, \varepsilon, \theta),$
+
+$u(I)-\phi(e)$
+
+$F(c, e)=\operatorname{Pr}\{\Gamma(e, \varepsilon) \leqslant c\}$
+
+$$
+\begin{aligned}
+& \text { Minimize } \\
+& p(), e
+\end{aligned} \int p(c) f(c, e) \mathrm{d} c \quad \text { subject to : }
+$$
+
+$$
+\int u(p(c)-c) f(c, e) \mathrm{d} c-\phi(e) \geqslant 0
+$$
+
+$$
+e \in \underset{\hat{e}}{\operatorname{argmax}} \int u(p(c)-c) f(c, \hat{e}) \mathrm{d} c-\phi(\hat{e}) .
+$$
+
+$$
+\int u(p(c)-c) f_e(c, e) \mathrm{d} c-\phi^{\prime}(e)=0
+$$
+
+$$
+p=\alpha+\beta c
+$$
+
+

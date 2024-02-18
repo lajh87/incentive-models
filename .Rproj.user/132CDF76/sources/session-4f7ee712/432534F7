@@ -1,14 +1,14 @@
 {
-    "id": "5EA34314",
-    "path": "~/git/incentive-models/02-background.qmd",
-    "project_path": "02-background.qmd",
+    "id": "432534F7",
+    "path": "~/git/incentive-models/03-models.qmd",
+    "project_path": "03-models.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2169864665",
     "contents": "",
     "dirty": false,
-    "created": 1708238494526.0,
-    "source_on_save": false,
-    "relative_order": 7,
+    "created": 1708289160521.0,
+    "source_on_save": true,
+    "relative_order": 10,
     "properties": {
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "5,241",
-        "scrollLine": "0",
-        "rmdVisualModeLocation": "21666:0"
+        "cursorPosition": "29,0",
+        "scrollLine": "16",
+        "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1708242164,
+    "lastKnownWriteTime": 1708289576,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1708242164604,
+    "last_content_update": 1708289576654,
     "read_only": false,
     "read_only_alternatives": []
 }
