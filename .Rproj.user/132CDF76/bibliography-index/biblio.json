@@ -1,0 +1,344 @@
+{
+    "sources": [
+        {
+            "author": [
+                {
+                    "family": "Rogerson",
+                    "given": "William P."
+                }
+            ],
+            "container-title": "Journal of Economic Perspectives",
+            "id": "Rogerson1994",
+            "issued": {
+                "date-parts": [
+                    [
+                        1994
+                    ]
+                ]
+            },
+            "page": "65-90",
+            "title": "Economic incentives and the defense procurement process",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "author": [
+                {
+                    "family": "Peck",
+                    "given": "Merton J."
+                },
+                {
+                    "family": "Scherer",
+                    "given": "Frederic M."
+                }
+            ],
+            "id": "PeckScherer1962",
+            "issued": {
+                "date-parts": [
+                    [
+                        1962
+                    ]
+                ]
+            },
+            "publisher": "Boston: Division of Research, Harvard Business School",
+            "title": "The weapons acquisition process: An economic analysis",
+            "title-short": "The weapons acquisition process",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Scherer",
+                    "given": "Frederic M"
+                }
+            ],
+            "container-title": "The Quarterly Journal of Economics",
+            "id": "Scherer1964",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1964
+                    ]
+                ]
+            },
+            "page": "257-280",
+            "publisher": "MIT Press",
+            "title": "The theory of contractual incentives for cost reduction",
+            "type": "article-journal",
+            "volume": "78"
+        },
+        {
+            "author": [
+                {
+                    "family": "Burnett",
+                    "given": "William B"
+                },
+                {
+                    "family": "Scherer",
+                    "given": "Frederick M"
+                },
+                {
+                    "family": "Adams",
+                    "given": "Walter"
+                }
+            ],
+            "id": "BurnettScherer1990",
+            "issued": {
+                "date-parts": [
+                    [
+                        1990
+                    ]
+                ]
+            },
+            "publisher": "MacMillan Press",
+            "title": "The structure of american industry",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Rogerson",
+                    "given": "William Paul"
+                }
+            ],
+            "id": "Rogerson1992economic",
+            "issued": {
+                "date-parts": [
+                    [
+                        1992
+                    ]
+                ]
+            },
+            "publisher": "Rand",
+            "title": "An economic framework for analyzing DoD profit policy",
+            "type": "book"
+        },
+        {
+            "DOI": "",
+            "URL": "https://ideas.repec.org/a/kap/regeco/v3y1991i3p219-40.html",
+            "abstract": "Department of Defense regulation of weapons contracting uses incentive devices common to public utility regulation. This paper examines parallels between fixed-price contracts in weapons acquisition and the use of price caps to motivate public utilities. It uses defense contracting experience to identify limits to the efficiency and administrability benefits one can expect adoption of a price caps regime to produce in practice. Copyright 1991 by Kluwer Academic Publishers",
+            "author": [
+                {
+                    "family": "Kovacic",
+                    "given": "William E"
+                }
+            ],
+            "container-title": "Journal of Regulatory Economics",
+            "id": "Kovacic1991",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        1991
+                    ]
+                ]
+            },
+            "keyword": "",
+            "page": "219-240",
+            "title": "Commitment in Regulation: Defense Contracting and Extensions to Price Caps",
+            "type": "article-journal",
+            "volume": "3"
+        },
+        {
+            "author": [
+                {
+                    "family": "Williamson",
+                    "given": "Oliver"
+                }
+            ],
+            "container-title": "New York",
+            "id": "Williamson1985",
+            "issued": {
+                "date-parts": [
+                    [
+                        1985
+                    ]
+                ]
+            },
+            "title": "The economic institutions of capitalism",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Crocker",
+                    "given": "Keith J"
+                },
+                {
+                    "family": "Reynolds",
+                    "given": "Kenneth J"
+                }
+            ],
+            "container-title": "The RAND journal of economics",
+            "id": "CrockerReynolds1993",
+            "issued": {
+                "date-parts": [
+                    [
+                        1993
+                    ]
+                ]
+            },
+            "page": "126-146",
+            "publisher": "JSTOR",
+            "title": "The efficiency of incomplete contracts: An empirical analysis of air force engine procurement",
+            "title-short": "The efficiency of incomplete contracts",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Goldberg",
+                    "given": "Victor P"
+                }
+            ],
+            "container-title": "the Bell journal of economics",
+            "id": "Goldberg1976",
+            "issued": {
+                "date-parts": [
+                    [
+                        1976
+                    ]
+                ]
+            },
+            "page": "426-448",
+            "publisher": "JSTOR",
+            "title": "Regulation and administered contracts",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Kelman",
+                    "given": "Steven"
+                }
+            ],
+            "id": "Kelman1990",
+            "issued": {
+                "date-parts": [
+                    [
+                        1990
+                    ]
+                ]
+            },
+            "publisher": "The AEI Press",
+            "title": "Procurement and public management: The fear of discretion and the quality of government performance",
+            "title-short": "Procurement and public management",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Monteverde",
+                    "given": "Kirk"
+                },
+                {
+                    "family": "Teece",
+                    "given": "David J"
+                }
+            ],
+            "container-title": "The Bell Journal of Economics",
+            "id": "MonteverdeTeece1982",
+            "issued": {
+                "date-parts": [
+                    [
+                        1982
+                    ]
+                ]
+            },
+            "page": "206-213",
+            "publisher": "JSTOR",
+            "title": "Supplier switching costs and vertical integration in the automobile industry",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Rogerson",
+                    "given": "William P"
+                }
+            ],
+            "container-title": "Journal of Political Economy",
+            "id": "Rogerson1989",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        1989
+                    ]
+                ]
+            },
+            "page": "1284-1305",
+            "publisher": "The University of Chicago Press",
+            "title": "Profit regulation of defense contractors and prizes for innovation",
+            "type": "article-journal",
+            "volume": "97"
+        },
+        {
+            "author": [
+                {
+                    "family": "Rogerson",
+                    "given": "William P"
+                }
+            ],
+            "id": "Rogerson1991profit",
+            "issued": {
+                "date-parts": [
+                    [
+                        1991
+                    ]
+                ]
+            },
+            "publisher": "RAND",
+            "title": "Profit regulation of defense contractors and prizes for innovation",
+            "type": "book"
+        },
+        {
+            "URL": "https://EconPapers.repec.org/RePEc:aea:aecrev:v:78:y:1988:i:3:p:550-59",
+            "author": [
+                {
+                    "family": "Lichtenberg",
+                    "given": "Frank"
+                }
+            ],
+            "container-title": "American Economic Review",
+            "id": "Lichtenberg1998",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        1988
+                    ]
+                ]
+            },
+            "page": "550-59",
+            "title": "The private r&d investment response to federal design and technical competitions",
+            "type": "article-journal",
+            "volume": "78"
+        },
+        {
+            "author": [
+                {
+                    "family": "Rogerson",
+                    "given": "William P"
+                }
+            ],
+            "container-title": "Accounting Review",
+            "id": "Rogerson1992overhead",
+            "issued": {
+                "date-parts": [
+                    [
+                        1992
+                    ]
+                ]
+            },
+            "page": "671-690",
+            "publisher": "JSTOR",
+            "title": "Overhead allocation and incentives for cost minimization in defense procurement",
+            "type": "article-journal"
+        }
+    ],
+    "project_biblios": [
+        "references.bib"
+    ]
+}

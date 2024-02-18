@@ -1,0 +1,24 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Incentive Models of the Defence Procurement Process"
+  author: "William P Rogerson"
+  date: "1994"
+  chapters:
+    - index.qmd
+    - 01-introduction.qmd
+    - 02-background.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

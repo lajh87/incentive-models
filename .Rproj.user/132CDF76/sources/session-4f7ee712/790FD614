@@ -1,0 +1,26 @@
+{
+    "id": "790FD614",
+    "path": "~/git/incentive-models/data-raw/process-textract.R",
+    "project_path": "data-raw/process-textract.R",
+    "type": "r_source",
+    "hash": "646295767",
+    "contents": "",
+    "dirty": false,
+    "created": 1708193079368.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "10,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1708193377,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1708193377781,
+    "read_only": false,
+    "read_only_alternatives": []
+}

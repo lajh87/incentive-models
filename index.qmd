@@ -1,0 +1,7 @@
+# Abstract {.unnumbered}
+
+Economic theorists have devoted considerable attention to analyzing models of closely related incentive contracting problems that arise in the study of public procurement, private procurement, regulation, the theory of the firm, the theory of organizations, and managerial compensation. The purpose of this chapter is to provide an introduction to the incentive models literature as it applies to defense procurement.
+
+## Keywords {.unnumbered}
+
+defense procurement, contracts, incentives, principal agent models, R&D, economies of scale, innovation, moral hazard, strategic behavior, competition, auctions
