@@ -1,10 +1,12 @@
-# Background[^1]
+# Background
 
-[^1]: This section draws on @Rogerson1994.
 
 ## Introduction
 
-The incentive problem between government and defense firms is shaped by four underlying economic characteristics. This section will begin by describing these four characteristics and then go on to discuss some of their consequences for procurement policy. 
+The incentive problem between government and defense firms is shaped by four underlying economic characteristics. This section will begin by describing these four characteristics and then go on to discuss some of their consequences for procurement policy[^1]. 
+
+[^1]: This section draws on @Rogerson1994.
+
 
 ## Characteristic #1: Research and development 
 
